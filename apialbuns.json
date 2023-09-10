@@ -1,0 +1,122 @@
+[
+  {
+    "img_url": "https://akamai.sscdn.co/uploadfile/letras/albuns/c/a/0/1/1878821690289985.jpg",
+    "id": 1,
+    "album-name": "Shittrap 10",
+    "artist": "LUCKHAOS",
+    "genre": "Trap/Alternativo",
+    "release-year": 2023
+  },
+  {
+    "img_url": "https://i.scdn.co/image/ab67616d0000b2737aee5b36a3a60ca926bc429b",
+    "id": 2,
+    "album-name": "Lyfë",
+    "artist": "Yeat",
+    "genre": "Trap/Ragerap",
+    "release-year": 2022
+  },
+  {
+    "img_url": "https://t2.genius.com/unsafe/867x0/https%3A%2F%2Fimages.genius.com%2Fdce601227d0f100c3fb927b746453ec7.1000x1000x1.png",
+    "id": 3,
+    "album-name": "AftërLyfe",
+    "artist": "Yeat",
+    "genre": "Trap/Ragerap",
+    "release-year": 2023
+  },
+  {
+    "img_url": "https://t2.genius.com/unsafe/644x0/https%3A%2F%2Fimages.genius.com%2Fa576240c78f9d41c39493969d9951127.1000x1000x1.jpg",
+    "id": 4,
+    "album-name": "1of1",
+    "artist": "Hardrock",
+    "genre": "Hip-Hop/Trap",
+    "release-year": 2023
+  },
+  {
+    "img_url": "https://t2.genius.com/unsafe/644x0/https%3A%2F%2Fimages.genius.com%2Fdd872875e5981d61a3a82ef43a0bf58c.1000x1000x1.jpg",
+    "id": 5,
+    "album-name": "BACK2DATRAP",
+    "artist": "Lancey Foux",
+    "genre": "Hip-Hop/Trap",
+    "release-year": 2023
+  },
+  {
+    "img_url": "https://t2.genius.com/unsafe/644x0/https%3A%2F%2Fimages.genius.com%2F83bdf5f8972095da9117be56619750af.1000x1000x1.jpg",
+    "id": 6,
+    "album-name": "NOCTURNAL",
+    "artist": "Fijimacintosh",
+    "genre": "Hip-Hop/Trap",
+    "release-year": 2023
+  },
+  {
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/4-44_album_cover.png",
+    "id": 7,
+    "album-name": "4:44",
+    "artist": "Jay-Z",
+    "genre": "Hip-Hop",
+    "release-year": 2017
+  },
+  {
+    "img_url": "https://monkeybuzz.com.br/wp-content/uploads/2018/04/j-cole--kod-5ae2f271e5b1e.jpg",
+    "id": 8,
+    "album-name": "KOD",
+    "artist": "J. Cole",
+    "genre": "Hip-Hop",
+    "release-year": 2018
+  },
+  {
+    "img_url": "https://monkeybuzz.com.br/wp-content/uploads/2019/05/tyler-the-creator-igor-1920x1920.jpg",
+    "id": 9,
+    "album-name": "IGOR",
+    "artist": "Tyler, The Creator",
+    "genre": "Hip-Hop/Experimental",
+    "release-year": 2019
+  },
+  {
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Eternal_Atake_Lil_Uzi_Vert.jpg",
+    "id": 10,
+    "album-name": "Eternal Atake",
+    "artist": "Lil Uzi Vert",
+    "genre": "Hip-Hop/Trap",
+    "release-year": 2020
+  },
+  {
+    "img_url": "https://m.media-amazon.com/images/I/51xrNHAW7mL._UF1000,1000_QL80_.jpg",
+    "id": 11,
+    "album-name": "Good Kid, M.A.A.D City",
+    "artist": "Kendrick Lamar",
+    "genre": "Hip-Hop",
+    "release-year": 2012
+  },
+  {
+    "img_url": "https://upload.wikimedia.org/wikipedia/pt/b/ba/313x0w.jpg",
+    "id": 12,
+    "album-name": "Blonde",
+    "artist": "Frank Ocean",
+    "genre": "Hip-Hop/R&B",
+    "release-year": 2016
+  },
+  {
+    "img_url": "https://t2.genius.com/unsafe/867x0/https%3A%2F%2Fimages.genius.com%2Fb8473f07e3a01629bd51a309a05562bc.1000x1000x1.jpg",
+    "id": 13,
+    "album-name": "Midnight Club",
+    "artist": "Autumn!",
+    "genre": "Hip-Hop/Trap",
+    "release-year": 2023
+  },
+  {
+    "img_url": "https://t2.genius.com/unsafe/658x0/https%3A%2F%2Fimages.genius.com%2Fa8e45ed1cd0fd5b63d0578d92181a2bb.1000x1000x1.png",
+    "id": 14,
+    "album-name": "The Life Of Pierre 5",
+    "artist": "Pierre Bourne",
+    "genre": "Hip-Hop/Trap",
+    "release-year": 2021
+  },
+  {
+    "img_url": "https://i9.ytimg.com/s_p/OLAK5uy_n5FRTc4rX29dfosroB-a_FsDClmmtfvdY/maxresdefault.jpg?sqp=CJT89KcGir7X7AMGCISy5KcG&rs=AOn4CLCrvoOnfHuPFiicBzzCL4OmEGIbXg&v=1694046468",
+    "id": 15,
+    "album-name": "Garoto Saltador",
+    "artist": "costabilekidd",
+    "genre": "Trap/Ragerap",
+    "release-year": 2023
+  }
+]
