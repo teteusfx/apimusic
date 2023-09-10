@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "img_url": "https://lh3.googleusercontent.com/sWWtx-bo8ZUU_MlGej-IC2zW_iCun2RUXDERTTne_eBnG8T7eyboifE6Yf4ISD29TWZYZwUcPsSA14g=w544-h544-p-l90-rj",
+    "artist-name": "Yeat",
+    "realname": "Noah Oliver Smith",
+    "label": "Interscope",
+    "age": 23
+  },
+  {
+    "id": 2,
+    "img_url": "https://pbs.twimg.com/profile_images/1187024252362481665/d3k6IdPk_400x400.jpg",
+    "artist-name": "Autumn!",
+    "realname": "Benjamin Clarence",
+    "label": "Universal Republic",
+    "age": 25
+  },
+  {
+    "id": 3,
+    "img_url": "https://www.liluziofficial.com/sites/g/files/g2000016571/files/2023-06/pink_new.jpg",
+    "artist-name": "Lil Uzi Vert",
+    "realname": "Symere Woods",
+    "label": "Atlantic Records",
+    "age": 27
+  },
+  {
+    "id": 4,
+    "img_url": "https://i.pinimg.com/736x/8d/21/dc/8d21dca77dd482c8bff5f0b785fb208a.jpg",
+    "artist-name": "Ken Carson",
+    "realname": "Kenyatta Lee",
+    "label": "Opium",
+    "age": 23
+  },
+  {
+    "id": 5,
+    "img_url": "https://cdns-images.dzcdn.net/images/artist/d430f8ba09e2fdd83bb12027be99baed/500x500.jpg",
+    "artist-name": "Destroy Lonely",
+    "realname": "Bobby Wardell",
+    "label": "Opium",
+    "age": 22
+  },
+  {
+    "id": 6,
+    "img_url": "https://media.npr.org/assets/img/2021/11/16/gettyimages-1235223332_sq-018166785ff8ed3e47c6e014e0f58618be107ddf.jpg",
+    "artist-name": "Travis Scott",
+    "realname": "Jacques Webster II",
+    "label": "Cactus Jack Records",
+    "age": 30
+  },
+  {
+    "id": 7,
+    "img_url": "https://people.com/thmb/GxqCux46oNJz2k7vmPWnLwbqByo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x382:736x384)/cardi-b-e224cf805d1a4fa19997e7534d670072.jpg",
+    "artist-name": "Cardi B",
+    "realname": "Belcalis Marlenis Almánzar",
+    "label": "Atlantic Records",
+    "age": 29
+  },
+  {
+    "id": 8,
+    "img_url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/b2/7b299b70-d200-55a1-ace7-c197d175cec0/645a3dd1eaebf.image.jpg?crop=800%2C800%2C0%2C200&resize=1200%2C1200&order=crop%2Cresize",
+    "artist-name": "Future",
+    "realname": "Nayvadius DeMun Wilburn",
+    "label": "Freebandz",
+    "age": 38
+  },
+  {
+    "id": 9,
+    "img_url": "https://i.scdn.co/image/ab6761610000e5eb6cad3eff5adc29e20f189a6c",
+    "artist-name": "Lil Baby",
+    "realname": "Dominique Armani Jones",
+    "label": "Quality Control Music",
+    "age": 26
+  },
+  {
+    "id": 10,
+    "img_url": "https://i.scdn.co/image/ab6761610000e5eb9c30c6b69a55d48decd71600",
+    "artist-name": "Roddy Ricch",
+    "realname": "Rodrick Wayne Moore Jr.",
+    "label": "Atlantic Records",
+    "age": 23
+  },
+  {
+    "id": 11,
+    "img_url": "https://i0.wp.com/tracklist.com.br/wp-content/uploads/2021/10/242124665_400403778122299_2424037684948467616_n.jpg?fit=1284%2C1284&ssl=1",
+    "artist-name": "Saweetie",
+    "realname": "Diamonté Quiava Valentin Harper",
+    "label": "Warner Records",
+    "age": 28
+  },
+  {
+    "id": 12,
+    "img_url": "https://cdns-images.dzcdn.net/images/artist/cb499091fda9a837d0059cbde5e52450/500x500.jpg",
+    "artist-name": "Lil Nas X",
+    "realname": "Montero Lamar Hill",
+    "label": "Columbia Records",
+    "age": 22
+  },
+  {
+    "id": 13,
+    "img_url": "https://yt3.googleusercontent.com/WReE24TYhOOQcbslCbzFbCYouR62u5g_VvWYdPtH1gJ-FESGQVGCKM8utKd_aS6WJovqafmyJbw=s900-c-k-c0x00ffffff-no-rj",
+    "artist-name": "21 Savage",
+    "realname": "Shéyaa Bin Abraham-Joseph",
+    "label": "Slaughter Gang",
+    "age": 28
+  },
+  {
+    "id": 14,
+    "img_url": "https://lastfm.freetls.fastly.net/i/u/770x0/6e57a70ed1120e1aa1bf67682c6b7285.jpg",
+    "artist-name": "Gunna",
+    "realname": "Sergio Giavanni Kitchens",
+    "label": "YSL Records",
+    "age": 28
+  },
+  {
+    "id": 15,
+    "img_url": "https://i1.sndcdn.com/artworks-rmX3iVsyNiDjyGsE-rN59wA-t500x500.jpg",
+    "artist-name": "Playboi Carti",
+    "realname": "Jordan Carter",
+    "label": "Opium",
+    "age": 26
+  }
+]
