@@ -48,44 +48,44 @@
     "release-year": 2023
   },
   {
-    "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/4-44_album_cover.png",
+    "img_url": "https://miro.medium.com/v2/resize:fit:1024/0*NqXYLlT5jxlH6c-R.jpeg",
     "id": 7,
-    "album-name": "4:44",
-    "artist": "Jay-Z",
-    "genre": "Hip-Hop",
-    "release-year": 2017
+    "album-name": "Utopia",
+    "artist": "Travis Scott",
+    "genre": "Hip-Hop/Trap",
+    "release-year": 2023
   },
   {
-    "img_url": "https://monkeybuzz.com.br/wp-content/uploads/2018/04/j-cole--kod-5ae2f271e5b1e.jpg",
+    "img_url": "https://i1.sndcdn.com/artworks-bf62ed5a-2c81-4f66-915f-d1c67064e9db-0-t500x500.jpg",
     "id": 8,
-    "album-name": "KOD",
-    "artist": "J. Cole",
-    "genre": "Hip-Hop",
-    "release-year": 2018
+    "album-name": "IMSOMNIA",
+    "artist": "Sid Shyne",
+    "genre": "Trap/Ragetrap",
+    "release-year": 2023
   },
   {
-    "img_url": "https://monkeybuzz.com.br/wp-content/uploads/2019/05/tyler-the-creator-igor-1920x1920.jpg",
+    "img_url": "https://imusic.b-cdn.net/images/item/original/413/0194399166413.jpg?tyler-the-creator-2022-call-me-if-you-get-lost-lp&class=scaled&v=1649412818",
     "id": 9,
-    "album-name": "IGOR",
+    "album-name": "Call Me If You Get Lost (Estate Sale)",
     "artist": "Tyler, The Creator",
     "genre": "Hip-Hop/Experimental",
-    "release-year": 2019
+    "release-year": 2023
   },
   {
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Eternal_Atake_Lil_Uzi_Vert.jpg",
+    "img_url": "https://i.scdn.co/image/ab67616d0000b273a0e7694a73abed7372474d69",
     "id": 10,
-    "album-name": "Eternal Atake",
+    "album-name": "Pink Tape",
     "artist": "Lil Uzi Vert",
     "genre": "Hip-Hop/Trap",
-    "release-year": 2020
+    "release-year": 2023
   },
   {
-    "img_url": "https://m.media-amazon.com/images/I/51xrNHAW7mL._UF1000,1000_QL80_.jpg",
+    "img_url": "https://images.genius.com/697cd20574c39c26b10ebb3c95dae2a4.1000x1000x1.png",
     "id": 11,
-    "album-name": "Good Kid, M.A.A.D City",
-    "artist": "Kendrick Lamar",
-    "genre": "Hip-Hop",
-    "release-year": 2012
+    "album-name": "On My Own (Deluxe)",
+    "artist": "Dom Corleo",
+    "genre": "Hip-Hop/Trap",
+    "release-year": 2023
   },
   {
     "img_url": "https://upload.wikimedia.org/wikipedia/pt/b/ba/313x0w.jpg",
@@ -112,10 +112,10 @@
     "release-year": 2021
   },
   {
-    "img_url": "https://i9.ytimg.com/s_p/OLAK5uy_n5FRTc4rX29dfosroB-a_FsDClmmtfvdY/maxresdefault.jpg?sqp=CJT89KcGir7X7AMGCISy5KcG&rs=AOn4CLCrvoOnfHuPFiicBzzCL4OmEGIbXg&v=1694046468",
+    "img_url": "https://images.genius.com/22c62d8e281a016b02c1ac5625f5e7bd.1000x1000x1.jpg",
     "id": 15,
-    "album-name": "Garoto Saltador",
-    "artist": "costabilekidd",
+    "album-name": "Osama Season",
+    "artist": "OSamaSon",
     "genre": "Trap/Ragerap",
     "release-year": 2023
   }
